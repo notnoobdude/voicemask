@@ -2,7 +2,7 @@
 Based from Tyler Glaiel's work.
 
 
-## Components/materials used: ##
+## Components/materials used (all bought online): ##
 *	Electret Microphone MAX4466
 * Arduino Nano
 * A mini powerbank
